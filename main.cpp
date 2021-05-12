@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
     Jeu j;
-    j.Play();
+    j.play();
     return 0;
 }
